@@ -1,1 +1,1 @@
-worker: python Kino.py
+web: python Kino.py
