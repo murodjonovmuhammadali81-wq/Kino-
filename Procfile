@@ -1,1 +1,2 @@
-web: python Kino.py
+worker: python Kino.py
+web: python -m http.server $PORT
